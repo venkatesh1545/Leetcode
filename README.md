@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh1545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/venkatesh1545/Leetcode/tree/master/0070-climbing-stairs) |
+## Array
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh1545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh1545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
