@@ -8,15 +8,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/venkatesh1545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/venkatesh1545/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/venkatesh1545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/venkatesh1545/Leetcode/tree/master/0650-2-keys-keyboard) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/venkatesh1545/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
