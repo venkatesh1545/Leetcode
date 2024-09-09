@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh1545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/venkatesh1545/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh1545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/venkatesh1545/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
+## Simulation
+|  |
+| ------- |
+| [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
