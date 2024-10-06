@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/venkatesh1545/Leetcode/tree/master/0859-design-circular-deque) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/venkatesh1545/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/venkatesh1545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/venkatesh1545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/venkatesh1545/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/venkatesh1545/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/venkatesh1545/Leetcode/tree/master/0567-permutation-in-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/venkatesh1545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1923-sentence-similarity-iii](https://github.com/venkatesh1545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/venkatesh1545/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/venkatesh1545/Leetcode/tree/master/0567-permutation-in-string) |
+| [1923-sentence-similarity-iii](https://github.com/venkatesh1545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 ## Sliding Window
 |  |
 | ------- |
