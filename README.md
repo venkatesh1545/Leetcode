@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/venkatesh1545/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/venkatesh1545/Leetcode/tree/master/0567-permutation-in-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatesh1545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/venkatesh1545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/venkatesh1545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkatesh1545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatesh1545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkatesh1545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
@@ -145,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatesh1545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkatesh1545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
