@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/venkatesh1545/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/venkatesh1545/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/venkatesh1545/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/venkatesh1545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkatesh1545/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkatesh1545/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkatesh1545/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Memoization
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/venkatesh1545/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0859-design-circular-deque](https://github.com/venkatesh1545/Leetcode/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh1545/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/venkatesh1545/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatesh1545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkatesh1545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkatesh1545/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -122,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkatesh1545/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Trie
 |  |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/venkatesh1545/Leetcode/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Stack
 |  |
 | ------- |
