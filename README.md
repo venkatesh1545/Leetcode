@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/venkatesh1545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/venkatesh1545/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkatesh1545/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/venkatesh1545/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkatesh1545/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/venkatesh1545/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/venkatesh1545/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/venkatesh1545/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkatesh1545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/venkatesh1545/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/venkatesh1545/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/venkatesh1545/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/venkatesh1545/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/venkatesh1545/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
