@@ -221,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/venkatesh1545/Leetcode/tree/master/1396-count-servers-that-communicate) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/venkatesh1545/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
