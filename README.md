@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/venkatesh1545/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [0386-lexicographical-numbers](https://github.com/venkatesh1545/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [1396-count-servers-that-communicate](https://github.com/venkatesh1545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1484-linked-list-in-binary-tree](https://github.com/venkatesh1545/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [1396-count-servers-that-communicate](https://github.com/venkatesh1545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/venkatesh1545/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
 | [0567-permutation-in-string](https://github.com/venkatesh1545/Leetcode/tree/master/0567-permutation-in-string) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/venkatesh1545/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
