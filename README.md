@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/venkatesh1545/Leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/venkatesh1545/Leetcode/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0264-ugly-number-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/venkatesh1545/Leetcode/tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/venkatesh1545/Leetcode/tree/master/0179-largest-number) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/venkatesh1545/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/venkatesh1545/Leetcode/tree/master/0079-word-search) |
 | [1396-count-servers-that-communicate](https://github.com/venkatesh1545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2411-spiral-matrix-iv](https://github.com/venkatesh1545/Leetcode/tree/master/2411-spiral-matrix-iv) |
