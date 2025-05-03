@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0859-design-circular-deque](https://github.com/venkatesh1545/Leetcode/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/venkatesh1545/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/venkatesh1545/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1396-count-servers-that-communicate](https://github.com/venkatesh1545/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/venkatesh1545/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/venkatesh1545/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/venkatesh1545/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/venkatesh1545/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/venkatesh1545/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/venkatesh1545/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/venkatesh1545/Leetcode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/venkatesh1545/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/venkatesh1545/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
