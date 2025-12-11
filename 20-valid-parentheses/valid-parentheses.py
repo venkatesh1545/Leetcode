@@ -3,15 +3,18 @@ class Solution:
         stack = []
         pair = {
             ')' : '(',
-            '}' : '{',
-            ']' : '['
+            ']' : '[',
+            '}' : '{'
         }
         for char in s:
+            
             if char in pair:
                 if not stack or stack[-1] != pair[char]:
                     return False
                 stack.pop()
             else:
-                stack.append(char)
+                stack.append(char) # 
         
         return len(stack) == 0
+
+        
