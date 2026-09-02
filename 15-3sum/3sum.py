@@ -17,9 +17,9 @@ class Solution(object):
                     result.append([nums[i], nums[left], nums[right]])
                     left += 1
                     right -=1
-                    #skip duplicate left values
-                    while left < right and nums[left] == nums[left -1]:
-                        left += 1
+                    # #skip duplicate left values
+                    # while left < right and nums[left] == nums[left -1]:
+                    #     left += 1
                     # skip duplicate right values
                     while left < right and nums[right] == nums[right+1]:
                         right -= 1
